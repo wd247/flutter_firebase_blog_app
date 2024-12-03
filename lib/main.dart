@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_firebase_blog_app/ui/home/home_page.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+//test
 void main() {
   runApp(ProviderScope(child: MyApp()));
 }
