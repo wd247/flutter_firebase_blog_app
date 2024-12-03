@@ -8,4 +8,10 @@ class DetailPage extends StatelessWidget {
       body: Text('DetailPage'),
     );
   }
+
+  Widget iconButton() {
+    return GestureDetector(
+      child: Icon(Icons.delete),
+    );
+  }
 }
