@@ -1,16 +1,75 @@
-# flutter_firebase_blog_app
+# 프로젝트 이름
 
-A new Flutter project.
+## 📖 목차
+1. [프로젝트 소개](#프로젝트-소개)
+2. [팀소개](#팀소개)
+3. [프로젝트 계기](#프로젝트-계기)
+4. [주요기능](#주요기능)
+5. [개발기간](#개발기간)
+6. [기술스택](#기술스택)
+7. [서비스 구조](#서비스-구조)
+8. [와이어프레임](#와이어프레임)
+9. [API 명세서](#API-명세서)
+10. [ERD](#ERD)
+11. [프로젝트 파일 구조](#프로젝트-파일-구조)
+12. [Trouble Shooting](#trouble-shooting)
+    
+## 👨‍🏫 프로젝트 소개
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 팀소개
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 프로젝트 계기
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 💜 주요기능
+
+- 기능 1
+
+- 기능 2
+
+- 기능 3
+
+- 기능 4
+
+
+## ⏲️ 개발기간
+- 2024.02.26(월) ~ 2024.04.04(목)
+
+## 📚️ 기술스택
+
+### ✔️ Language
+
+
+### ✔️ Version Control
+
+### ✔️ IDE
+
+### ✔️ Framework
+
+### ✔️ Deploy
+
+
+### ✔️  DBMS
+
+## 서비스 구조
+
+
+
+## 와이어프레임
+
+
+
+## API 명세서
+
+
+## ERD
+
+
+## 프로젝트 파일 구조
+
+
+
+
+## Trouble Shooting
