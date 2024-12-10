@@ -47,7 +47,7 @@ class PostRepository {
         'content': content,
         'writer': writer,
         'imageUrl': imageUrl,
-        'createAt': DateTime.now().toIso8601String(),
+        'createdAt': DateTime.now().toIso8601String(),
       });
       return true;
     } catch (e) {
